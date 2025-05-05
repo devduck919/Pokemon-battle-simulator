@@ -1,8 +1,3 @@
-// Devin Duque
-// [CS1101] Comprehensive Lab 3
-// This work is to be done individually. It is not permitted
-// to. share, reproduce, or alter any part of this assignment
-// for any purpose. Students are not permitted to share code,
 import java.util.Random;
 public class Region{
 //Attributes
